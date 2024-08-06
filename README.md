@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @utkarsh-vaishnav
-- 👀 I’m interested in BLockchain technology, NFT's, DeFi, DAOs etc..
+- 👀 I’m interested in Blockchain technology, NFT's, DeFi, DAOs etc..
 - 🌱 I’m currently learning Ethereum and Solana Blockchain development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
