@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @utkarsh-vaishnav
-- 👀 I’m interested in Blockchain technology, NFT's, DeFi, DAOs etc..
-- 🌱 I’m currently learning Ethereum and Solana Blockchain development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web3 and Blockchain technology...
+- 🌱 I had working in EVM based chains, Solana, Stellar,polkadot and substrate.
+- 💞️ I’m looking to collaborate on various web3 and amazing projects.
 
 <!---
 utkarsh-vaishnav/utkarsh-vaishnav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
