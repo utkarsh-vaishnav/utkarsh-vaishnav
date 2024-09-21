@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Anchor, stellar and other upcoming trending topics**
 
-- 👯 I’m looking to collaborate on **Varoious web3 and blockchain projects**
+- 👯 I’m looking to collaborate on **Various web3 and blockchain projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
