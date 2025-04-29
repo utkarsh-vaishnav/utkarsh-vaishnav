@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Vaishnav</h1>
 <h3 align="center">Passionate and experienced blockchain developer working with various EVM & non-EVM chains...</h3>
-<img align="right" alt="Blockchain_developer" width="400" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif">
+<img align="right" alt="Blockchain_developer" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 - 🔭 I’m currently working on **solana projects and zk**
 
