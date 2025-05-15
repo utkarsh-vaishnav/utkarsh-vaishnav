@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Vaishnav</h1>
 <h3 align="center">🚀 Blockchain Developer | zk & Solana Enthusiast | Web3 Builder</h3>
 
-<p align="center">
+<p align="right">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400" alt="Blockchain Dev" />
 </p>
 
@@ -10,9 +10,9 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently building on **Solana**, exploring **zk cryptography**, and designing circuits with **Circom**
-- 🌱 Learning **zkSNARKs**, **Anchor**, and privacy-preserving systems
+- 🌱 Learning **zkSNARKs**, **Circom**, and privacy-preserving systems
 - 👯 Looking to collaborate on **Web3, DeFi, zkApps, and Smart Contract** projects
-- 💬 Ask me about **Ethereum, Solidity, Rust, zk, or anything blockchain**
+- 💬 Ask me about **Ethereum, Solidity, Rust, Solana, zk, or anything blockchain**
 - 🛠️ Passionate about **open-source**, decentralized protocols, and future of Web3
 
 <h3 align="left">Connect with me:</h3>
